@@ -31,7 +31,9 @@ Para aprender ainda mais sobre o Lottie assista a esses dois vídeos:
 - **[Vídeo 1](https://www.youtube.com/watch?v=xYQ-HdVfBSA)**
 - **[Vídeo 2](https://www.youtube.com/watch?v=zU7AiFcTmz0&list=PLzz3lYjvdSbXyBJIjwoIGSUqdEuPR_Z8X&index=29&t=0s)** 
 
+<h3 align = center>
 Em caso de dúvidas, sinta-se livre para me mandar uma mensagem nbo linkedin! 👋
+</h3>
 
 ---
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-querubino/)](https://www.linkedin.com/in/joyce-querubino/)
