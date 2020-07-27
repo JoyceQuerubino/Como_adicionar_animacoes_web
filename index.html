@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/public/style.css">
+    <title>Exemplo de animação</title>
+</head>
+
+<body>
+
+    <!-- ANIMAÇÃO-->
+    <div class="anime"></div>
+
+    <script src= "https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.1/lottie_svg.js"></script>
+
+    <!--Animação-->
+    <script>
+        let animationArea = document.querySelector('.anime');
+
+        let animationObject = bodymovin.loadAnimation({
+                container: animationArea,
+                renderer: 'svg',
+                loop: true,
+                autoplay: true,
+                autoloadSegments: false,
+                path:'/public/404-error.json'
+         });
+
+    </script>
+    
+</body>
+</html>

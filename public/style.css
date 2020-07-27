@@ -1,0 +1,18 @@
+
+*{
+    margin: 0; 
+    padding: 0;
+    border: 0;
+}
+body{
+    background:#282a36;
+}
+
+/*ANIMAÇÃO*/
+.anime {
+    width: 600px;
+    height: 500px;
+    transition: 1500ms ease;
+    margin: auto;
+    margin-top: 10%;
+}
