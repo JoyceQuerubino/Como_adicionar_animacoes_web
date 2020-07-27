@@ -18,7 +18,7 @@ Qualquer dúvida utilize os links úteis, bons estudos! 😊
   - HTML
   - CSS
   - JavaScript
-  - Extenção **Live Server** para visual Code
+  - Extenção **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** para visual Code
 
 ## 📌 Links úteis 
 
@@ -27,10 +27,11 @@ Qualquer dúvida utilize os links úteis, bons estudos! 😊
 **[LInk para baixar o vetor](https://br.freepik.com/vetores-gratis/modelo-de-erro-404-com-espaco-e-envio-em-estilo-plano_1902952.htm#page=1&query=erro%20404%20space&position=14)** 
 
 Para aprender ainda mais sobre o Lottie assista a esses dois vídeos: 
-**-[Vídeo 1](https://www.youtube.com/watch?v=xYQ-HdVfBSA)**
-**-[Vídeo 2](https://www.youtube.com/watch?v=zU7AiFcTmz0&list=PLzz3lYjvdSbXyBJIjwoIGSUqdEuPR_Z8X&index=29&t=0s)** 
 
-Em caso de dúvidas, sinta-se livre para me mandar uma mensagem nbo linkedin! 😁
+- **[Vídeo 1](https://www.youtube.com/watch?v=xYQ-HdVfBSA)**
+- **[Vídeo 2](https://www.youtube.com/watch?v=zU7AiFcTmz0&list=PLzz3lYjvdSbXyBJIjwoIGSUqdEuPR_Z8X&index=29&t=0s)** 
+
+Em caso de dúvidas, sinta-se livre para me mandar uma mensagem nbo linkedin! 👋
 
 ---
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-querubino/)](https://www.linkedin.com/in/joyce-querubino/)
