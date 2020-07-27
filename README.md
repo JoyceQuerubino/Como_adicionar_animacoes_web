@@ -4,9 +4,9 @@ O LottieFiles é uma uma biblioteca iOS, Android e React Native que transforma a
 
 Para tornar o projeto mais leve, ao invés da inclusão ser realizada com um arquivo .GIF, a plataforma permite que as animações sejam adicionadas aos códigos como um arquivo .JSON, através de extensões open source como o Bodymovin ou o próprio Lottie.
 
-<h1 align = center>
-    <img src="public/anima.gif">
-</h1>
+
+<img src="public/anima.gif" align = center>
+
 
 
 ## Como adicionar a animação ao meu projeto?
@@ -25,13 +25,13 @@ Qualquer dúvida utilize os links úteis, bons estudos! 😊
 
 **[LInk para baixar o vetor](https://br.freepik.com/vetores-gratis/modelo-de-erro-404-com-espaco-e-envio-em-estilo-plano_1902952.htm#page=1&query=erro%20404%20space&position=14)** 
 
-Para aprender ainda mais sobre o Lottie assista a esses dois vídeos! 
+Para aprender ainda mais sobre o Lottie assista a esses dois vídeos: 
 
 **[Vídeo 1](https://www.youtube.com/watch?v=xYQ-HdVfBSA)**
-
 **[Vídeo 2](https://www.youtube.com/watch?v=zU7AiFcTmz0&list=PLzz3lYjvdSbXyBJIjwoIGSUqdEuPR_Z8X&index=29&t=0s)** 
 
 Em caso de dúvidas, sinta-se livre para me mandar uma mensagem nbo linkedin! 😁
+
 ---
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-querubino/)](https://www.linkedin.com/in/joyce-querubino/)
  [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/joycequerucdd7)](https://www.behance.net/joycequerucdd7)
