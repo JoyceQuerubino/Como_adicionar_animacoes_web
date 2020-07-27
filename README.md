@@ -5,7 +5,7 @@ O LottieFiles é uma uma biblioteca iOS, Android e React Native que transforma a
 Para tornar o projeto mais leve, ao invés da inclusão ser realizada com um arquivo .GIF, a plataforma permite que as animações sejam adicionadas aos códigos como um arquivo .JSON, através de extensões open source como o Bodymovin ou o próprio Lottie.
 
 
-<img src="public/anima.gif" align = center>
+<img  align = center src="public/anima.gif">
 
 
 
