@@ -32,7 +32,7 @@ Para aprender ainda mais sobre o Lottie assista a esses dois vídeos:
 - **[Vídeo 2](https://www.youtube.com/watch?v=zU7AiFcTmz0&list=PLzz3lYjvdSbXyBJIjwoIGSUqdEuPR_Z8X&index=29&t=0s)** 
 
 <h5 align = center>
-Em caso de dúvidas, sinta-se livre para me mandar uma mensagem nbo linkedin! 👋
+Em caso de dúvidas, sinta-se livre para me mandar uma mensagem no linkedin! 👋
 </h5>
 
 ---
